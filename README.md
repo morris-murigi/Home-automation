@@ -1,7 +1,7 @@
-# Home-automation
+# Home-Automation
 Home Automation using LoRa.
 
-SENDER CIRCUIT:
+SENDER CIRCUIT (GATEWAY):
 
 ~Microcontroller: ESP8266 (Wi-Fi module)
 
